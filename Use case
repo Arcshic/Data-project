@@ -1,0 +1,22 @@
+Main Purpose: 
+  1.Analysing the relationship between the house price and other factors.
+  2.Completing the system which can generate the proper house price by inputing other factors.
+
+Data size: 
+  13580 records
+  314 suburbs 
+  33 concils
+  Date from Jan 2016 to sep 2017
+
+Methods:
+  1.Data preparation.
+  2.Analysing the difference of price between concils (maybe suburbs).
+  3.Analysing the trend of price from Jan 2016 to Sep 2017 (may see the difference of trend between concils).
+  4.Choosing 3 concils to analyse the relationship between house price and other factors(like bathroom,bedroom,buliding area).
+  5.Trying to build system to generate price by machine learning.
+
+Ideas:
+  1.Because there are too many suburbs (314), the report may focus on the difference between concils instead of suburbs.
+  2.Some factors may not have strong relationships between price, so I will consider if they should be put in system.
+  3.I want to create a map by using lattitude & longtitude.
+  4.House price may need to be divided by building area & landsize.
